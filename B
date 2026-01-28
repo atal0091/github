@@ -1,1 +1,3 @@
-this is file in feature 
+Hello 
+this is file in featurer and do
+new line added
